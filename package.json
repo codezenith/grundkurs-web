@@ -1,0 +1,19 @@
+{
+  "name": "grundkurs-web",
+  "version": "1.0.0",
+  "description": "Grundkurs Web Development",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codezenith/grundkurs-web.git"
+  },
+  "author": "DerPauli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codezenith/grundkurs-web/issues"
+  },
+  "homepage": "https://github.com/codezenith/grundkurs-web#readme"
+}
